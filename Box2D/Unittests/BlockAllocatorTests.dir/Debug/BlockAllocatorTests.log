@@ -1,0 +1,7 @@
+﻿  BlockAllocatorTests.cpp
+  BodyTracker.cpp
+BodyTracker.cpp(230): error C2220: warning treated as error - no 'object' file generated
+BodyTracker.cpp(230): warning C4456: declaration of 'buf' hides previous local declaration
+  BodyTracker.cpp(230): note: to simplify migration, consider the temporary use of /Wv:18 flag with the version of the compiler with which you used to build without warnings
+  BodyTracker.cpp(184): note: see declaration of 'buf'
+  Generating Code...

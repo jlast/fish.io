@@ -1,0 +1,8 @@
+﻿  TestEntries.cpp
+c:\users\orechmann\downloads\liquidfun-1.1.0\liquidfun\box2d\testbed\tests\DamBreak.h(83): warning C4305: 'argument': truncation from 'double' to 'float32'
+c:\users\orechmann\downloads\liquidfun-1.1.0\liquidfun\box2d\testbed\tests\DamBreak.h(99): warning C4456: declaration of 'bd' hides previous local declaration
+  c:\users\orechmann\downloads\liquidfun-1.1.0\liquidfun\box2d\testbed\tests\DamBreak.h(72): note: see declaration of 'bd'
+c:\users\orechmann\downloads\liquidfun-1.1.0\liquidfun\box2d\testbed\tests\DamBreak.h(102): warning C4456: declaration of 'body' hides previous local declaration
+  c:\users\orechmann\downloads\liquidfun-1.1.0\liquidfun\box2d\testbed\tests\DamBreak.h(74): note: see declaration of 'body'
+  Testbed.vcxproj -> C:\Users\orechmann\Downloads\liquidfun-1.1.0\liquidfun\Box2D\Testbed\..\Testbed\Debug\Testbed.exe
+  Testbed.vcxproj -> ..\Testbed/Debug/Testbed.pdb (Full PDB)
