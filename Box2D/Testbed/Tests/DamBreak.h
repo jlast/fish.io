@@ -129,7 +129,7 @@ public:
 
 		for (int32 i = 1; i <= 2; ++i) {
 			b2RevoluteJoint* joint = joints[i - 1];
-			float result = (cosf(6.0f * time)) *20;
+			float result = (pow(sinf(6.0f * time), 0.5)) *(10 *i);
 			b2Log(std::to_string(time).c_str());
 			b2Log(" ");
 			joint->SetMotorSpeed(result);

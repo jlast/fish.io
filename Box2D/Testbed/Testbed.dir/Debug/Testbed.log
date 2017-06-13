@@ -4,5 +4,6 @@ c:\users\orechmann\downloads\liquidfun-1.1.0\liquidfun\box2d\testbed\tests\DamBr
   c:\users\orechmann\downloads\liquidfun-1.1.0\liquidfun\box2d\testbed\tests\DamBreak.h(72): note: see declaration of 'bd'
 c:\users\orechmann\downloads\liquidfun-1.1.0\liquidfun\box2d\testbed\tests\DamBreak.h(102): warning C4456: declaration of 'body' hides previous local declaration
   c:\users\orechmann\downloads\liquidfun-1.1.0\liquidfun\box2d\testbed\tests\DamBreak.h(74): note: see declaration of 'body'
+c:\users\orechmann\downloads\liquidfun-1.1.0\liquidfun\box2d\testbed\tests\DamBreak.h(132): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
   Testbed.vcxproj -> C:\Users\orechmann\Downloads\liquidfun-1.1.0\liquidfun\Box2D\Testbed\..\Testbed\Debug\Testbed.exe
   Testbed.vcxproj -> ..\Testbed/Debug/Testbed.pdb (Full PDB)
