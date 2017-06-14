@@ -1,9 +1,11 @@
-﻿  TestEntries.cpp
-c:\users\orechmann\downloads\liquidfun-1.1.0\liquidfun\box2d\testbed\tests\DamBreak.h(83): warning C4305: 'argument': truncation from 'double' to 'float32'
-c:\users\orechmann\downloads\liquidfun-1.1.0\liquidfun\box2d\testbed\tests\DamBreak.h(99): warning C4456: declaration of 'bd' hides previous local declaration
-  c:\users\orechmann\downloads\liquidfun-1.1.0\liquidfun\box2d\testbed\tests\DamBreak.h(72): note: see declaration of 'bd'
-c:\users\orechmann\downloads\liquidfun-1.1.0\liquidfun\box2d\testbed\tests\DamBreak.h(102): warning C4456: declaration of 'body' hides previous local declaration
-  c:\users\orechmann\downloads\liquidfun-1.1.0\liquidfun\box2d\testbed\tests\DamBreak.h(74): note: see declaration of 'body'
-c:\users\orechmann\downloads\liquidfun-1.1.0\liquidfun\box2d\testbed\tests\DamBreak.h(132): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-  Testbed.vcxproj -> C:\Users\orechmann\Downloads\liquidfun-1.1.0\liquidfun\Box2D\Testbed\..\Testbed\Debug\Testbed.exe
-  Testbed.vcxproj -> ..\Testbed/Debug/Testbed.pdb (Full PDB)
+﻿  Main.cpp
+C:\Users\jlast\projects\fish.io\Box2D\glui/glui.h(35): fatal error C1083: Cannot open include file: 'GL/freeglut.h': No such file or directory
+  Render.cpp
+Framework\Render.cpp(22): fatal error C1083: Cannot open include file: 'GL/freeglut.h': No such file or directory
+  Arrow.cpp
+Framework\Arrow.cpp(21): fatal error C1083: Cannot open include file: 'GL/freeglut.h': No such file or directory
+  FullscreenUI.cpp
+Framework\FullscreenUI.cpp(21): fatal error C1083: Cannot open include file: 'GL/freeglut.h': No such file or directory
+  TestEntries.cpp
+Tests\TestEntries.cpp(28): fatal error C1083: Cannot open include file: 'GL/freeglut.h': No such file or directory
+  Generating Code...

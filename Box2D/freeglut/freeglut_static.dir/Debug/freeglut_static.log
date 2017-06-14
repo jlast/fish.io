@@ -1,44 +1,79 @@
 ﻿  fg_callbacks.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\freeglut\src\fg_callbacks.c': No such file or directory
   fg_cursor.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\freeglut\src\fg_cursor.c': No such file or directory
   fg_display.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\freeglut\src\fg_display.c': No such file or directory
   fg_ext.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\freeglut\src\fg_ext.c': No such file or directory
   fg_font.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\freeglut\src\fg_font.c': No such file or directory
   fg_font_data.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\freeglut\src\fg_font_data.c': No such file or directory
   fg_gamemode.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\freeglut\src\fg_gamemode.c': No such file or directory
   fg_geometry.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\freeglut\src\fg_geometry.c': No such file or directory
   fg_gl2.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\freeglut\src\fg_gl2.c': No such file or directory
   fg_init.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\freeglut\src\fg_init.c': No such file or directory
   fg_input_devices.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\freeglut\src\fg_input_devices.c': No such file or directory
   fg_joystick.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\freeglut\src\fg_joystick.c': No such file or directory
   fg_main.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\freeglut\src\fg_main.c': No such file or directory
   fg_misc.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\freeglut\src\fg_misc.c': No such file or directory
   fg_overlay.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\freeglut\src\fg_overlay.c': No such file or directory
   fg_spaceball.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\freeglut\src\fg_spaceball.c': No such file or directory
   fg_state.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\freeglut\src\fg_state.c': No such file or directory
   fg_stroke_mono_roman.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\freeglut\src\fg_stroke_mono_roman.c': No such file or directory
   fg_stroke_roman.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\freeglut\src\fg_stroke_roman.c': No such file or directory
   fg_structure.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\freeglut\src\fg_structure.c': No such file or directory
   Generating Code...
   Compiling...
   fg_teapot.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\freeglut\src\fg_teapot.c': No such file or directory
   fg_videoresize.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\freeglut\src\fg_videoresize.c': No such file or directory
   fg_window.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\freeglut\src\fg_window.c': No such file or directory
   fg_menu.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\freeglut\src\fg_menu.c': No such file or directory
   fg_cursor_mswin.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\freeglut\src\mswin\fg_cursor_mswin.c': No such file or directory
   fg_display_mswin.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\freeglut\src\mswin\fg_display_mswin.c': No such file or directory
   fg_ext_mswin.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\freeglut\src\mswin\fg_ext_mswin.c': No such file or directory
   fg_gamemode_mswin.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\freeglut\src\mswin\fg_gamemode_mswin.c': No such file or directory
   fg_init_mswin.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\freeglut\src\mswin\fg_init_mswin.c': No such file or directory
   fg_input_devices_mswin.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\freeglut\src\mswin\fg_input_devices_mswin.c': No such file or directory
   fg_joystick_mswin.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\freeglut\src\mswin\fg_joystick_mswin.c': No such file or directory
   fg_main_mswin.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\freeglut\src\mswin\fg_main_mswin.c': No such file or directory
   fg_menu_mswin.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\freeglut\src\mswin\fg_menu_mswin.c': No such file or directory
   fg_spaceball_mswin.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\freeglut\src\mswin\fg_spaceball_mswin.c': No such file or directory
   fg_state_mswin.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\freeglut\src\mswin\fg_state_mswin.c': No such file or directory
   fg_structure_mswin.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\freeglut\src\mswin\fg_structure_mswin.c': No such file or directory
   fg_window_mswin.c
-  fgSetupPixelFormat(): there is still some work to do here!
+c1 : fatal error C1083: Cannot open source file: '..\..\..\freeglut\src\mswin\fg_window_mswin.c': No such file or directory
   xparsegeometry_repl.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\freeglut\src\util\xparsegeometry_repl.c': No such file or directory
   Generating Code...
-LINK : warning LNK4068: /MACHINE not specified; defaulting to X86
-  freeglut_static.vcxproj -> C:\Users\orechmann\Downloads\liquidfun-1.1.0\liquidfun\Box2D\freeglut\..\freeglut\Debug\freeglut_staticd.lib

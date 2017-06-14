@@ -1,36 +1,61 @@
 ﻿  algebra3.cpp
-  arcball.cpp
   glui_add_controls.cpp
+c:\users\jlast\projects\fish.io\box2d\glui\glui.h(35): fatal error C1083: Cannot open include file: 'GL/freeglut.h': No such file or directory
   glui_bitmap_img_data.cpp
   glui_bitmaps.cpp
+c:\users\jlast\projects\fish.io\box2d\glui\glui.h(35): fatal error C1083: Cannot open include file: 'GL/freeglut.h': No such file or directory
   glui_button.cpp
+c:\users\jlast\projects\fish.io\box2d\glui\glui.h(35): fatal error C1083: Cannot open include file: 'GL/freeglut.h': No such file or directory
   glui_checkbox.cpp
+c:\users\jlast\projects\fish.io\box2d\glui\glui.h(35): fatal error C1083: Cannot open include file: 'GL/freeglut.h': No such file or directory
   glui_column.cpp
+c:\users\jlast\projects\fish.io\box2d\glui\glui.h(35): fatal error C1083: Cannot open include file: 'GL/freeglut.h': No such file or directory
   glui_commandline.cpp
+c:\users\jlast\projects\fish.io\box2d\glui\glui.h(35): fatal error C1083: Cannot open include file: 'GL/freeglut.h': No such file or directory
   glui_control.cpp
+c:\users\jlast\projects\fish.io\box2d\glui\glui.h(35): fatal error C1083: Cannot open include file: 'GL/freeglut.h': No such file or directory
   glui_edittext.cpp
+c:\users\jlast\projects\fish.io\box2d\glui\glui.h(35): fatal error C1083: Cannot open include file: 'GL/freeglut.h': No such file or directory
   glui_filebrowser.cpp
+c:\users\jlast\projects\fish.io\box2d\glui\glui.h(35): fatal error C1083: Cannot open include file: 'GL/freeglut.h': No such file or directory
   glui_list.cpp
+c:\users\jlast\projects\fish.io\box2d\glui\glui.h(35): fatal error C1083: Cannot open include file: 'GL/freeglut.h': No such file or directory
   glui_listbox.cpp
+c:\users\jlast\projects\fish.io\box2d\glui\glui.h(35): fatal error C1083: Cannot open include file: 'GL/freeglut.h': No such file or directory
   glui_mouse_iaction.cpp
+c:\users\jlast\projects\fish.io\box2d\glui\glui.h(35): fatal error C1083: Cannot open include file: 'GL/freeglut.h': No such file or directory
   glui_node.cpp
+c:\users\jlast\projects\fish.io\box2d\glui\glui.h(35): fatal error C1083: Cannot open include file: 'GL/freeglut.h': No such file or directory
   glui_panel.cpp
+c:\users\jlast\projects\fish.io\box2d\glui\glui.h(35): fatal error C1083: Cannot open include file: 'GL/freeglut.h': No such file or directory
   glui_radio.cpp
+c:\users\jlast\projects\fish.io\box2d\glui\glui.h(35): fatal error C1083: Cannot open include file: 'GL/freeglut.h': No such file or directory
   glui_rollout.cpp
+c:\users\jlast\projects\fish.io\box2d\glui\glui.h(35): fatal error C1083: Cannot open include file: 'GL/freeglut.h': No such file or directory
   glui_rotation.cpp
+c:\users\jlast\projects\fish.io\box2d\glui\glui.h(35): fatal error C1083: Cannot open include file: 'GL/freeglut.h': No such file or directory
+  glui_scrollbar.cpp
+c:\users\jlast\projects\fish.io\box2d\glui\glui.h(35): fatal error C1083: Cannot open include file: 'GL/freeglut.h': No such file or directory
   Generating Code...
   Compiling...
-  glui_scrollbar.cpp
   glui_separator.cpp
+c:\users\jlast\projects\fish.io\box2d\glui\glui.h(35): fatal error C1083: Cannot open include file: 'GL/freeglut.h': No such file or directory
   glui_spinner.cpp
+c:\users\jlast\projects\fish.io\box2d\glui\glui.h(35): fatal error C1083: Cannot open include file: 'GL/freeglut.h': No such file or directory
   glui_statictext.cpp
+c:\users\jlast\projects\fish.io\box2d\glui\glui.h(35): fatal error C1083: Cannot open include file: 'GL/freeglut.h': No such file or directory
   glui_string.cpp
+c:\users\jlast\projects\fish.io\box2d\glui\glui.h(35): fatal error C1083: Cannot open include file: 'GL/freeglut.h': No such file or directory
   glui_textbox.cpp
+c:\users\jlast\projects\fish.io\box2d\glui\glui.h(35): fatal error C1083: Cannot open include file: 'GL/freeglut.h': No such file or directory
   glui_translation.cpp
+c:\users\jlast\projects\fish.io\box2d\glui\glui.h(35): fatal error C1083: Cannot open include file: 'GL/freeglut.h': No such file or directory
   glui_tree.cpp
+c:\users\jlast\projects\fish.io\box2d\glui\glui.h(35): fatal error C1083: Cannot open include file: 'GL/freeglut.h': No such file or directory
   glui_treepanel.cpp
+c:\users\jlast\projects\fish.io\box2d\glui\glui.h(35): fatal error C1083: Cannot open include file: 'GL/freeglut.h': No such file or directory
   glui_window.cpp
+c:\users\jlast\projects\fish.io\box2d\glui\glui.h(35): fatal error C1083: Cannot open include file: 'GL/freeglut.h': No such file or directory
   glui.cpp
-  quaternion.cpp
+c:\users\jlast\projects\fish.io\box2d\glui\glui.h(35): fatal error C1083: Cannot open include file: 'GL/freeglut.h': No such file or directory
   Generating Code...
-  glui.vcxproj -> C:\Users\orechmann\Downloads\liquidfun-1.1.0\liquidfun\Box2D\glui\..\glui\Debug\glui.lib
